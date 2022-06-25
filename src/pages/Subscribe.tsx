@@ -2,7 +2,6 @@ import { useState, FormEvent } from "react";
 import { RemoveScroll } from "react-remove-scroll";
 import { useNavigate } from "react-router-dom";
 
-import { Footer } from "../components/Footer";
 import { Logo } from "../components/Logo";
 
 import { useCreateSubscriberMutation } from "../graphql/generated";
@@ -70,9 +69,6 @@ export function Subscribe() {
             </div>
             
             <img src="https://raw.githubusercontent.com/Hebert324/Event-platform/main/src/assets/code-mockup.png" className="mt-10" alt="" />
-            <div id="footer" className="flex w-full absolute bottom-0 bg-gray-900 items-center justify-center px-8">
-                <Footer />
-            </div>
         </div>
     </RemoveScroll>
     )

@@ -3,7 +3,6 @@ import { useGetLessonBySlugQuery } from "../graphql/generated";
 import { CaretRight, DiscordLogo, FileArrowDown, Lightning } from "phosphor-react";
 
 import '@vime/core/themes/default.css'
-import { Footer } from "./Footer";
 
 interface VideoProps {
   lessonSlug: string;

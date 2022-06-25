@@ -3,6 +3,7 @@ import { useGetLessonBySlugQuery } from "../graphql/generated";
 import { CaretRight, DiscordLogo, FileArrowDown, Lightning } from "phosphor-react";
 
 import '@vime/core/themes/default.css'
+import { Footer } from "./Footer";
 
 interface VideoProps {
   lessonSlug: string;
@@ -104,6 +105,7 @@ export function Video(props: VideoProps) {
             </div>
           </a>
         </div>
+        <Footer />
       </div>
     </div>
   );

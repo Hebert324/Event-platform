@@ -67,9 +67,9 @@ export function Subscribe() {
             </div>
             
             <img src="/src/assets/code-mockup.png" className="mt-10" alt="" />
-            <section id="footer" className="flex w-full bg-gray-900 items-center justify-center px-8">
+            <div id="footer" className="flex w-full h-full bg-gray-900 items-center justify-center px-8">
                 <Footer />
-            </section>
+            </div>
         </div>
     )
 }

@@ -68,7 +68,7 @@ export function Subscribe() {
             </div>
             
             <img src="/src/assets/code-mockup.png" className="mt-10" alt="" />
-            <div id="footer" className="flex flex-col py-6 md:flex-row items-center justify-between w-full h-14 border-t border-gray-500">
+            <div id="footer" className="flex w-full absolute bottom-0 bg-gray-900 items-center justify-center px-8">
                 <Footer />
             </div>
         </div>

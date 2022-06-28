@@ -14,10 +14,10 @@ export function Subscribe() {
 
     const [createSubscriber, { loading }] = useCreateSubscriberMutation()
 
-    async function handleSubscribe(event: FormEvent) {
+    function handleSubscribe(event: FormEvent) {
         event.preventDefault()
 
-        await createSubscriber({
+        createSubscriber({
             variables: {
                 name,
                 email

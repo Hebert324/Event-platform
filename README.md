@@ -33,10 +33,14 @@ $ git clone https://github.com/AlexMarquesAlves/event-platform
 $ cd event-platform
 
 # Install dependencies
-$ yarn
+$ npm install ou yarn // recomendo que utilize o yarn
 
 # Run the project
-$ yarn start
+$ npm run dev ou yarn dev
 
 # The server will initialize in the <http://localhost:3000>
 ```
+
+---
+
+Desenvolvido por [Hebert Rocha](https://www.linkedin.com/in/hebert-rc/) juntamente a [Rocketseat](https://app.rocketseat.com.br/dashboard) :wave: 

@@ -2,6 +2,8 @@
   Event Platform
 </h1>
 
+<img alt="imagem do projeto" src="https://github.com/Hebert324/Event-platform/blob/main/src/assets/Capa.png">
+
 ## Sobre o Projeto:
 
 Ingnite Lab é um evento da Rocketseat aonde iremos contruir uma aplicação utilizando as tecnologias mais modernas do mercado em uma semana!

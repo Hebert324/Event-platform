@@ -14,10 +14,10 @@ export function Event() {
                 { slug 
                 ? <Video lessonSlug={slug} />
                 : (
-                    <div className='flex-1 pt-[40vh] text-gray-300 text-xl'>
+                    <div className='flex-1 pt-[40vh] text-gray-100 text-xl'>
                         <span className='flex flex-row items-center justify-center gap-2'>
                         Clique em uma aula para começar
-                        <ArrowCircleRight size={24} weight="light" className='animate-pulse text-green-500' />
+                        <ArrowCircleRight size={24} weight="light" className='animate-pulse text-green-400' />
                         </span>
                     </div>
                 )}

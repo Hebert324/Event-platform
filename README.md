@@ -8,6 +8,21 @@
 
 Ingnite Lab é um evento da Rocketseat aonde iremos contruir uma aplicação utilizando as tecnologias mais modernas do mercado em uma semana!
 
+## 🚀 Tecnologies utilizadas:
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [React Js](https://pt-br.reactjs.org/)
+- [Tailwindcss](https://tailwindcss.com/)
+- [Graphql](https://graphql.org/)
+- [GraphCMS](https://app.graphcms.com/)
+- [Graphql Code Generator](https://www.graphql-code-generator.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Vite](https://vitejs.dev/)
+- [Apollo](https://www.apollo.io/)
+- [Vime](https://vimejs.com/)
+
+
 ## :checkered_flag: Starting
 
 ```bash

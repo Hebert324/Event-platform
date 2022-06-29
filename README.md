@@ -6,7 +6,7 @@
 
 ## Sobre o Projeto:
 
-Ingnite Lab é um evento da Rocketseat aonde iremos contruir uma aplicação utilizando as tecnologias mais modernas do mercado em uma semana!
+Ingnite Lab é um evento da Rocketseat a onde iremos Desenvolver um Plataforma de Eventos utilizando as tecnologias mais modernas do mercado como React, Graphql, TypeScript.... tudo isso em uma semana!
 
 ## 🚀 Tecnologies utilizadas:
 

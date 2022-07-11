@@ -6,7 +6,7 @@
 
 ## Sobre o Projeto:
 
-Ingnite Lab é um evento da Rocketseat aonde iremos contruir uma aplicação utilizando as tecnologias mais modernas do mercado em uma semana!
+Ingnite Lab é um evento da Rocketseat a onde iremos Desenvolver um Plataforma de Eventos utilizando as tecnologias mais modernas do mercado como React, Graphql, TypeScript.... tudo isso em uma semana!
 
 ## 🚀 Tecnologies utilizadas:
 
@@ -22,25 +22,37 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Apollo](https://www.apollo.io/)
 - [Vime](https://vimejs.com/)
 
+## Teste o Projeto em sua máquina:
 
-## :checkered_flag: Starting
+#### Instruções de instalação
+
 
 ```bash
-# Clone this project
-$ git clone https://github.com/AlexMarquesAlves/event-platform
+# Clonar o repositório.
+$ git clone https://github.com/Hebert324/Rocket.q
 
-# Access
-$ cd event-platform
+# Ou
+# Ir no code (botãozinho verde) e fazer download do zip.
 
-# Install dependencies
-$ npm install ou yarn // recomendo que utilize o yarn
+# Entrar na pasta da aplicação.
+$ cd rocketq
 
-# Run the project
-$ npm run dev ou yarn dev
+# ou abrir o terminal do VScode quando estiver na pasta do projeto.
 
-# The server will initialize in the <http://localhost:3000>
+# Instalar as dependências.
+$ npm install ou yarn
+
+# Iniciar o servidor.
+$ npm start ou yarn
+
+# abra o navegador e digite.
+$ http://localhost:3000
 ```
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
 
-Desenvolvido por [Hebert Rocha](https://www.linkedin.com/in/hebert-rc/) juntamente a [Rocketseat](https://app.rocketseat.com.br/dashboard) :wave: 
+Desenvolvido por [Hebert Rocha](https://www.linkedin.com/in/hebert-rc/) juntamente a [Rocketseat](https://app.rocketseat.com.br/dashboard) :wave:

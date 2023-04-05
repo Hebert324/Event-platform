@@ -35,7 +35,7 @@ $ git clone https://github.com/Hebert324/Event-platform/
 # Ir no code (botãozinho verde) e fazer download do zip.
 
 # Entrar na pasta da aplicação.
-$ cd rocketq
+$ cd Event-platform
 
 # ou abrir o terminal do VScode quando estiver na pasta do projeto.
 

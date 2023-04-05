@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ```bash
 # Clonar o repositório.
-$ git clone https://github.com/Hebert324/Rocket.q
+$ git clone https://github.com/Hebert324/Event-platform/
 
 # Ou
 # Ir no code (botãozinho verde) e fazer download do zip.
